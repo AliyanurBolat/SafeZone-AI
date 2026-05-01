@@ -1,0 +1,5 @@
+# Core libraries for computer vision and array manipulation
+opencv-python
+numpy
+# For advanced AI detection (optional but recommended for a pro feel)
+ultralytics
