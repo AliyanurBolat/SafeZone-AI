@@ -26,16 +26,16 @@ SafeZone AI provides:
 - OpenCV
 - NumPy
 
+## Team& Roles 
+
+This project was developed collaboratively by a team of two. To meet the Open Source logic and assignment requirements, roles were clearly defined and distributed as follows:
+
+*   Aliyanur (Tech Lead & Architect): Responsible for the technical implementation, GitHub repository setup, Dependabot configuration, and coding the OpenCV prototype for danger zone detection.
+*   Ayaulym (Documentation Specialist & Product Analyst): Responsible for project conceptualization, SDG & DPG alignment, market and SWOT analysis, creating the comprehensive README.md and CONTRIBUTING.md, and preparing the final analytical report.
+  
 ## Installation
 ```bash
 git clone https://github.com/AliyanurBolat/SafeZone-AI.git
 cd SafeZone-AI
 pip install -r requirements.txt
 python src/detector.py
-
-## 👥 Team & Roles
-
-This project was developed collaboratively by a team of two. To meet the Open Source logic and assignment requirements, roles were clearly defined and distributed as follows:
-
-*   Aliyanur (Tech Lead & Architect): Responsible for the technical implementation, GitHub repository setup, Dependabot configuration, and coding the OpenCV prototype for danger zone detection.
-*   Ayaulym (Documentation Specialist & Product Analyst): Responsible for project conceptualization, SDG & DPG alignment, market and SWOT analysis, creating the comprehensive README.md and CONTRIBUTING.md, and preparing the final analytical report.
