@@ -28,7 +28,7 @@ SafeZone AI provides:
 
 ## Installation
 ```bash
-git clone https://github.com/YourUsername/SafeZone-AI.git
+git clone https://github.com/AliyanurBolat/SafeZone-AI.git
 cd SafeZone-AI
 pip install -r requirements.txt
 python src/detector.py
